@@ -1,0 +1,41 @@
+@import "./_global.css";
+
+/* ABOUT US */
+.section-name {
+    color: #bdbdbd;
+    font-size: 0.875rem;
+    font-weight: 500;
+    text-transform: uppercase;
+  }
+  
+  .about-us p {
+    margin: 0;
+    color: #828282;
+  }
+  
+  .about-us img {
+    width: 100%;
+    border-radius: 8px;
+  }
+  
+  .about-us__content {
+    display: grid;
+    gap: var(--space-lg);
+    margin-top: var(--space-xl);
+  }
+  
+  .about-us__content--left,
+  .about-us__content--right {
+    display: grid;
+    gap: var(--space-lg);
+  }
+  
+  @media (min-width: 760px) {
+    .about-us__content {
+      grid-template-columns: repeat(2, 1fr);
+    }
+    .about-us__content--right img {
+      order: -1;
+    }
+  }
+  
