@@ -1,0 +1,56 @@
+@import "./_global.css";
+
+
+.testimonials {
+    background-color: #f2f2f2;
+}
+
+.feedback {
+    display: grid;
+    gap: var(--space-xl);
+    margin-top: var(--space-2xl);
+}
+
+.feedback-card__dialog {
+    background-color: white;
+    padding: var(--space-xl) var(--space-lg);
+    border-radius: 20px 20px 20px 0;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.05);
+    font-family: var(--heading-font);
+}
+
+.feedback-card__dialog__title {
+    font-weight: 700;
+    margin-bottom: var(--space-md);
+}
+
+.feedback-card__dialog__content { 
+    color: #4f4f4f;
+    line-height: 180%;
+}
+
+.feedback-card__user {
+    margin-top: var(--space-md);
+    display: grid;
+    grid-template-columns: 52px 1fr;
+    gap: var(--space-md);
+}
+
+.feedback-card__user img {
+    width: 100%;
+}
+
+.feedback-card__user__name {
+    font-weight: 500;
+}
+
+.feedback-card__user__location {
+    color: #bdbdbd;
+    font-size: 0.75rem;
+}
+
+@media (min-width: 760px) {
+    .feedback {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
