@@ -2,5 +2,6 @@
 @import './_hero.css';
 @import './_accommodations.css';
 @import './_testimonials.css';
+@import './_footer.css';
 
 /* In order to better structure the css file, i've split it into parts, corresponding to the project's HTML sections */
