@@ -1,5 +1,7 @@
 @import "./_global.css";
 
+/* FOOTER */
+
 footer {
     font-family: var(--heading-font);
     color: var(--primary-color);
