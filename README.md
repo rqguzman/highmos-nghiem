@@ -13,7 +13,7 @@
 </p>
 <p>
     Status: :rocket: concluded </br>
-    Demo: :construction: comming soon
+    Demo: :rocket: https://rqguzman.github.io/highmos-nghiem/
 </p>
 
 ### SNAPSHOTS
