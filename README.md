@@ -1,23 +1,36 @@
 # HIGHMOS
 
+![header](https://github.com/rqguzman/assets/blob/main/snapshots/highmos/Highmos-Nghiem_Header.png)
+
+
 <p>
     This is an educational project provided by Thu Nghiem, from </br>
     DevChallenges(https://devchallenges.io/). </br>
-    A landing page for a Hotel</br>
+    A responsive single page application for a Hotel</br>
 </p>
 <p>
     I've followed this tutorial in order to improve my CSS and HTML skills.
 </p>
 <p>
-    Status: :construction: ongoing </br>
+    Status: :rocket: concluded </br>
     Demo: :construction: comming soon
 </p>
 
 ### SNAPSHOTS
-:construction: comming soon
+![WEB](https://github.com/rqguzman/assets/blob/main/snapshots/highmos/Highmos-NghiemWeb_2.png)
+
 
 ### MOBILE SNAPSHOTS
-:construction: comming soon
+
+HERO SECTION
+</br>  
+    ![MOBILE_1](https://github.com/rqguzman/assets/blob/main/snapshots/highmos/Highmos-Nghiem_mobile_1.png)
+</br>
+
+ACCOMMODATIONS SECTION
+</br>
+   ![MOBILE_2](https://github.com/rqguzman/assets/blob/main/snapshots/highmos/Highmos-Nghiem_mobile_2.png)
+</br>
 
 ## LICENCE
 
